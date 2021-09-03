@@ -1,5 +1,6 @@
 # DREVO Calibur V2 TE Reverse Engineering
-This is partial and may or may not be completed. Use this information at your own discretion and risk.
+
+Use this information at your own discretion and risk.
 
 ## Specification
 
@@ -111,6 +112,12 @@ Unconfirmed.
 
 This keyboard source code was based on Redragon K530 keyboard.
 [https://github.com/SonixQMK/qmk_firmware/tree/sn32/keyboards/drevo/caliburv2te71/](https://github.com/SonixQMK/qmk_firmware/tree/sn32/keyboards/drevo/caliburv2te71/)  
+
+- [x] Support Key matrix
+- [x] Support backlight LED
+- [x] Support sidelight LED
+- [ ] Support EEPROM
+- [ ] Support VIA/Remap
 
 ## Flash
 

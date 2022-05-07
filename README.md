@@ -11,7 +11,7 @@ Use this information at your own discretion and risk.
 ## MCU
 
 This keyboard uses the HFD2201KBA in a LQFP64 package.
-Appears to be based on/clone of SONiX SN32F248B.
+Appears to be based on/clone of SONiX SN32F248B(SN32F24xB).
 
 [https://www.eevblog.com/forum/microcontrollers/hfd2201kba-any-details-on-this-microcontroller/](https://www.eevblog.com/forum/microcontrollers/hfd2201kba-any-details-on-this-microcontroller/)  
 [https|:/|www.sonix.com.tw/list-en-4336](https://www.sonix.com.tw/list-en-4336)  
@@ -118,13 +118,11 @@ This keyboard source code was based on Redragon K530 keyboard.
 
 - [x] Support Key matrix
 - [x] Support backlight LED
-- [x] Support sidelight LED
+- [ ] Support sidelight LED
 - [ ] Support EEPROM
 - [ ] Support VIA/Remap
 
 ## Flash
 
-Flashing software for windows: [SONiX_USB_MCU_ISP_Tool_V2.3.1.7-.zip](https://github.com/qmk/qmk_firmware/files/5862715/SONiX_USB_MCU_ISP_Tool_V2.3.1.7-.zip)  
-
-When loading the file, select SN32F24xB, then select your built hex/bin file.
+https://sonixqmk.github.io/SonixDocs/
 

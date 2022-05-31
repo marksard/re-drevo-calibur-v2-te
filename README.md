@@ -14,7 +14,7 @@ This keyboard uses the HFD2201KBA in a LQFP64 package.
 Appears to be based on/clone of SONiX SN32F248B(SN32F24xB).
 
 [https://www.eevblog.com/forum/microcontrollers/hfd2201kba-any-details-on-this-microcontroller/](https://www.eevblog.com/forum/microcontrollers/hfd2201kba-any-details-on-this-microcontroller/)  
-[https|:/|www.sonix.com.tw/list-en-4336](https://www.sonix.com.tw/list-en-4336)  
+[https://www.sonix.com.tw/list-en-4336](https://www.sonix.com.tw/list-en-4336)  
 [https://www.sonix.com.tw/article-en-4336-30356](https://www.sonix.com.tw/article-en-4336-30356)  
 
 ## Key Matrix
@@ -114,7 +114,7 @@ Unconfirmed.
 ## SONiX QMK
 
 This keyboard source code was based on Redragon K530 keyboard.
-[https://github.com/SonixQMK/qmk_firmware/tree/sn32/keyboards/drevo/caliburv2te71/](https://github.com/SonixQMK/qmk_firmware/tree/sn32/keyboards/drevo/caliburv2te71/)  
+[https://github.com/marksard/qmk_firmware/tree/sn32_master_add_drevo_caliburv2te_re_PR/keyboards/drevo/caliburv2te](https://github.com/marksard/qmk_firmware/tree/sn32_master_add_drevo_caliburv2te_re_PR/keyboards/drevo/caliburv2te)
 
 - [x] Support Key matrix
 - [x] Support backlight LED
